@@ -1,2 +1,2 @@
-# twitter-sentiment-analysis
-Sentiments Analysis of Covid19 using Twitter
+# Covid19 Sentiment Analysis
+Sentiments Analysis based on tweets regrading Covid19
