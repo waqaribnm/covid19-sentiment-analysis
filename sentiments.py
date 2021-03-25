@@ -21,6 +21,6 @@ api = tweepy.API(auth)
 public_tweets = api.search('#Covid19')
 
 for tweet in public_tweets:
-	#print(tweet.text)
+	print(tweet.text)
 	analysis = TextBlob(tweet.text)
 	print(analysis)
