@@ -4,13 +4,9 @@ import twitterapi
 
 
 """
-# Remove comments and add your api key.
-# Also remove twitterapi import.
-consumer_key = ''
-consumer_secret = ''
+# Rename sample_twitterapi.py to twitterapi.py
+# Add your api keys in sample_twitterapi.py
 
-access_token = ''
-access_token_secret = ''
 """
 
 auth = tweepy.OAuthHandler(twitterapi.consumer_key, twitterapi.consumer_secret)
